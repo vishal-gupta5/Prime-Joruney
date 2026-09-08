@@ -1,0 +1,90 @@
+[
+    {
+        "id":1,
+        "name":"John Doe",
+        "age":29.0,
+        "country":"USA",
+        "gender":"Male",
+        "income":55000.0
+    },
+    {
+        "id":1,
+        "name":"John Doe",
+        "age":29.0,
+        "country":"USA",
+        "gender":"Male",
+        "income":55000.0
+    },
+    {
+        "id":2,
+        "name":"Jane Smith",
+        "age":null,
+        "country":"Canada",
+        "gender":"Female",
+        "income":62000.0
+    },
+    {
+        "id":3,
+        "name":"Alex",
+        "age":null,
+        "country":"USA",
+        "gender":"Unknown",
+        "income":47000.0
+    },
+    {
+        "id":4,
+        "name":"Maria Garcia",
+        "age":34.0,
+        "country":"Spain",
+        "gender":"Female",
+        "income":null
+    },
+    {
+        "id":5,
+        "name":"Li Wei",
+        "age":27.0,
+        "country":"China",
+        "gender":"Male",
+        "income":51000.0
+    },
+    {
+        "id":6,
+        "name":null,
+        "age":45.0,
+        "country":"India",
+        "gender":"Female",
+        "income":73000.0
+    },
+    {
+        "id":7,
+        "name":"Ahmed Khan",
+        "age":38.0,
+        "country":null,
+        "gender":"Male",
+        "income":68000.0
+    },
+    {
+        "id":8,
+        "name":"Rachel Lee",
+        "age":29.0,
+        "country":"USA",
+        "gender":"Female",
+        "income":62000.0
+    },
+    {
+        "id":9,
+        "name":"Carlos Ruiz",
+        "age":null,
+        "country":"Mexico",
+        "gender":"Male",
+        "income":45000.0
+    },
+    {
+        "id":10,
+        "name":"Emily Davis",
+        "age":31.0,
+        "country":"USA",
+        "gender":null,
+        "income":58000.0
+    }
+]
